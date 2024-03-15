@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Aramís Silva</h1>
 <h3 align="center">A passionate Software Developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aramisSilva&label=Profile%20views&color=0e75b6&style=flat" alt="aramisSilva" /> </p>
-
-<p align="left"> <a href="https://www.linkedin.com/in/aramissilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ujjwalbhatt09" /></a> </p>
-
 - 🔭 I’m currently working on: **Institute of Information Technology and IT of the state of Alagoas**
 
 - 🌱 I’m currently learning: **Data Structures, FastAPI, Optimization Algorithms, Cybersecurity**
